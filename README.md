@@ -1,2 +1,2 @@
 # Settarplay
-"Settar play - aplikasi hiburan all-in-on terbak"
+"Settar play - aplikasi hiburan all-in-on terbaik"
